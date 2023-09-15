@@ -6,7 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+CV & Resume
+======
+My [CV](hamzareza-pavel.github.io/files/hamza_pavel_CV.pdf) and [Resume](hamzareza-pavel.github.io/files/hamza_pavel_Resume.pdf) 
 <!---
 {% include base_path %}
 
