@@ -8,7 +8,9 @@ redirect_from:
 ---
 CV & Resume
 ======
-My [CV](hamzareza-pavel.github.io/files/hamza_pavel_CV.pdf) and [Resume](hamzareza-pavel.github.io/files/hamza_pavel_Resume.pdf) 
+My [CV](http://hamzareza-pavel.github.io/files/hamza_pavel_CV.pdf) and [Resume](http://hamzareza-pavel.github.io/files/hamza_pavel_Resume.pdf) 
+
+
 <!---
 {% include base_path %}
 
@@ -60,4 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
---->
+-->
