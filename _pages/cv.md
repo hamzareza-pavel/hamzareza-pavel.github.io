@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "CV & Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-CV & Resume
 ======
-My [CV](http://hamzareza-pavel.github.io/files/hamza_pavel_CV.pdf) and [Resume](http://hamzareza-pavel.github.io/files/hamza_pavel_Resume.pdf) 
+My [CV](http://hamzareza-pavel.github.io/files/hamza_pavel_CV.pdf) and [Resume](http://hamzareza-pavel.github.io/files/hamza_pavel_Resume.pdf) can be found here.
 
 
 <!---
